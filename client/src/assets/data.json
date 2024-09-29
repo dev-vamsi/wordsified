@@ -1,0 +1,8 @@
+{
+    "defaults": {
+        "inputBorderColor": "$F0F3FF",
+        "inputOutlineColor": "#4379F2",
+        "buttonBackGroundColor": "#4379F2",
+        "buttonTextColor": "#FFFFFF"
+    }
+}
